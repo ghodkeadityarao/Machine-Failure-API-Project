@@ -29,9 +29,9 @@ Follow the steps below to set up and run the project locally:
    ```
 2. Install the required Python libraries by running the following command:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. The application will store uploaded files and trained models in specific directories. Create these directories:
 
    ```bash
