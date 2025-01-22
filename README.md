@@ -17,6 +17,12 @@ You can download the dataset from here (Also, from the above files).
 
 Link - https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
+## Python Files
+
+1. `app.py`: Contains the Flask code to upload, train and predict based on the ML model.
+2. `model.py`: Contains the ML model code which is imported in `app.py` file.
+3. `algorithm_test.py`: Conatins the hyperparameter tuning code for the `DecisionTreeClassifier` to find the best parameters.
+
 ## Installation
 
 Follow the steps below to set up and run the project locally:
